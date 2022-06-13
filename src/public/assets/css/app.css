@@ -1,0 +1,23 @@
+/* Write your styles */
+.vuln-list{
+    margin:30px;
+}
+
+.vuln-list .vuln a{
+    color:#fff;
+    font-size:1.1em;
+}
+
+.vuln-list .vuln{
+    border-radius:3px;
+    height:100px;
+    background: #0e90d2;
+    color:#fff;
+    box-shadow: 2px 7px 22px -2px rgba(0,0,0,1);
+    -webkit-box-shadow: 2px 7px 22px -2px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 7px 22px -2px rgba(0,0,0,1);
+    line-height:100px;
+    text-align: center;
+    margin-top:15px;
+    margin-bottom:15px;
+}
