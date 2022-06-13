@@ -13,3 +13,7 @@ Apache2.4
 ## 配置修改
 
 创建数据库后导入根目录下的 `bachang.sql` 文件，导入成功后，依次打开 `config\database.php` 文件修改数据库信息即可。
+
+## 界面
+
+![demo](demo.png)
